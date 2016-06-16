@@ -6,3 +6,17 @@ Hi - I'm just **giving** github a try for the first time so I'm following the tu
 ## or this
 ### and this
 #### and this
+
+* What does this look like?
+* and this?
+* I like bullets
+
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
